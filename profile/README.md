@@ -1,12 +1,5 @@
 ## Bem vindo! 👋
 
-<!--
+Olá, meu nome é Rafael, trabalho como programador **WordPress** | **PHP** | **JavaScript** desde 2012. Nessa década, tive a oportunidade de ajudar inúmeras empresas a melhorar seus sites, criando soluções personalizadas, plugins, temas e integrações para WordPress. Saiba mais: <https://rafael.work/>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Aqui você encontrará alguns projetos Open Source, testes, desafios e scripts em geral que utilizo no meu dia a dia. Para ter uma visão mais profissional do meu trabalho, por favor visite o repositório da minha empresa em <https://github.com/NexstCompany>. Lá você poderá ter acesso aos plugins WordPress Open Source que disponibilizamos.
